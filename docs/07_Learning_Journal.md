@@ -38,6 +38,33 @@
 - Framework scalability considerations
 - Separation of production and test code
 
+- ## Day 3
+
+### Activities Completed
+
+- Created config.properties
+- Implemented ConfigReader
+- Read configuration values dynamically
+- Created FrameworkConstants
+- Validated configuration loading
+
+### Learnings
+
+- Importance of external configuration
+- Avoiding hardcoded values
+- Introduction to Singleton-style configuration management
+
+### Challenges
+
+- Understanding Properties class
+- Understanding static initialization blocks
+
+### Next Steps
+
+- Build DriverFactory
+- Launch browser dynamically
+- Support multiple browsers
+
 ### Next Steps
 
 - Implement ConfigReader
